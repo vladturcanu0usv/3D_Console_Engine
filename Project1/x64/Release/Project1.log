@@ -1,0 +1,30 @@
+﻿  olcEngine3D.cpp
+O:\OpenGL\OverView\Console_Engine_1\olcConsoleGameEngine.h(759,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'olcEngine3D.cpp')
+  
+O:\OpenGL\OverView\Console_Engine_1\olcConsoleGameEngine.h(1099,31): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'olcEngine3D.cpp')
+  
+O:\OpenGL\OverView\Console_Engine_1\olcConsoleGameEngine.h(1196,4): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+  (compiling source file 'olcEngine3D.cpp')
+  
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(165,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(697,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(703,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(703,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(703,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(703,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(703,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(703,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(707,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(707,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(707,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(707,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(707,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+O:\OpenGL\OverView\Console_Engine_1\olcEngine3D.cpp(707,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  0 of 626 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> O:\OpenGL\OverView\Console_Engine_1\x64\Release\Project1.exe
