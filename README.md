@@ -3,6 +3,6 @@
 Remained to implement the texture handling
 
 
-! Important
+Important
 
 The code is note optimised at all ( No code,class splitting, operators overload ) with the intention to only focus on the Math part of the proccess, without distracting myself with programming part.
